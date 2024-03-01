@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pass Data From Fragment To Hosting Activity Using Interface</string>
+    <string name="your_passed_data_here">Your Passed Data Here</string>
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hostingactivity">Your Data Passed From The Fragment Will Be Displayed Here On It\'s Hosting Activity</string>
+</resources>
